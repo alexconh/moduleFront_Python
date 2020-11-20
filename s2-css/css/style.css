@@ -1,0 +1,45 @@
+header { 
+    background-color: blue;
+    border-color: red;
+    margin: 20px;
+    padding: 15px;
+}
+span{
+    color: white;
+}
+nav{
+    background-color: orange;
+    border-color: greenyellow;
+    margin: 15px;
+    height: 80px;
+}
+aside{
+    background-color: sandybrown;
+    border-color: red;
+    display: inline-block;
+    width: 29%;
+    height: 400px;
+    margin: 20px;
+    padding: 15px;
+}
+main { 
+    background-color: salmon;
+    border: red;
+    display: inline-block;
+    width: 30%;
+    height: 400px;
+    margin: 20px;
+    padding: 15px;
+}
+article {
+    background-color: yellow;
+    height: 55px;
+    margin: 20px;
+    padding: 15px;
+}
+footer{
+    background-color: violet;
+    border-color: black;
+    margin: 20px;
+    height: 100px;
+}
