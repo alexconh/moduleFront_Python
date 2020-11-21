@@ -1,6 +1,6 @@
 header { 
     background-color: blue;
-    border-color: red;
+    border: 5px solid red;
     margin: 20px;
     padding: 15px;
 }
@@ -9,38 +9,39 @@ span{
 }
 nav{
     background-color: orange;
-    border-color: greenyellow;
+    border: 5px solid greenyellow;
     margin: 15px;
     height: 80px;
 }
 aside{
     background-color: sandybrown;
-    border-color: red;
+    border: 5px solid red;
     display: inline-block;
     width: 29%;
     height: 400px;
     margin: 20px;
     padding: 15px;
+    vertical-align: top;
 }
 main { 
     background-color: salmon;
-    border: red;
+    border: 5px solid blue;
     display: inline-block;
     width: 30%;
     height: 400px;
-    margin: 20px;
+    margin: 20px 15px;
     padding: 15px;
 }
 article {
-    background-color: yellow;
+    background: yellow;
     height: 55px;
     margin: 20px;
     padding: 15px;
 }
 footer{
     background-color: violet;
-    border-color: black;
+    border: 5px solid black;
     margin: 20px;
-    height: 100px;
+    height: 150px;
     padding: 15px;
 }
